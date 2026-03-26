@@ -1,0 +1,4 @@
+{"timestamp":"25690326T23:00:55\u002B07:00","message":"User list requested","level":"INFO","trace_id":"709d5970f3ed489b961d898a786a64d1,291c8497885f4397a9e6dd166867114a","service":"users-api","meta_data":{},"data":{}}
+{"timestamp":"25690326T23:00:59\u002B07:00","message":"User list requested","level":"INFO","trace_id":"9854abf3c2f34fefabeaee35b4e1e4b3,498d982c14aa4b18b70ae0e57858283a","service":"users-api","meta_data":{},"data":{}}
+{"timestamp":"25690326T23:01:15\u002B07:00","message":"Route not found: /api/home","level":"ERROR","trace_id":"458feadeb34645d5b03dfdb28bfc4537,8036991e31f04caf9f2725f196b3cdd1","service":"users-api","meta_data":{},"data":{}}
+{"timestamp":"25690326T23:01:21\u002B07:00","message":"User list requested","level":"INFO","trace_id":"eb913bd6f357439e8b8a29e103f7f762,9b9bc1faa2c44e9782d234abc99563da","service":"users-api","meta_data":{},"data":{}}

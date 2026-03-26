@@ -1,0 +1,10 @@
+{
+    "name": "volley5544/php_project",
+    "description": "microservice project",
+    "autoload": {
+        "psr-4": {
+            "Volley5544\\PhpProject\\": "src/"
+        }
+    },
+    "require": {}
+}

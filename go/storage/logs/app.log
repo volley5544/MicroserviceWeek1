@@ -1,0 +1,6 @@
+{"data":null,"level":"INFO","message":"User list requested","meta_data":null,"service":"users-api","timestamp":"2026-03-27T00:23:27+07:00","trace_id":"ABCDEFGH,ABCDEFGH"}
+{"data":null,"level":"INFO","message":"User list requested","meta_data":null,"service":"users-api","timestamp":"2026-03-27T00:23:35+07:00","trace_id":"ABCDEFGH,ABCDEFGH"}
+{"data":null,"level":"INFO","message":"User list requested","meta_data":null,"service":"users-api","timestamp":"2026-03-27T00:23:48+07:00","trace_id":"ABCDEFGH,ABCDEFGH"}
+{"data":null,"level":"INFO","message":"User list requested","meta_data":null,"service":"users-api","timestamp":"2026-03-27T00:24:02+07:00","trace_id":"ABCDEFGH,ABCDEFGH"}
+{"data":null,"level":"INFO","message":"User list requested","meta_data":null,"service":"users-api","timestamp":"2026-03-27T00:24:08+07:00","trace_id":"ABCDEFGH,ABCDEFGH"}
+{"data":null,"level":"ERROR","message":"Route not found: /api/usersh","meta_data":null,"service":"users-api","timestamp":"2026-03-27T00:24:31+07:00","trace_id":"ABCDEFGH,ABCDEFGH"}

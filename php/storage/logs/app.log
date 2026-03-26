@@ -1,0 +1,18 @@
+[2026-03-25 04:52:39] ERROR: Route not found: /favicon.ico
+[2026-03-25 04:53:39] INFO: User list requested
+[2026-03-25 04:54:26] INFO: User list requested
+[2026-03-25 04:54:31] INFO: User list requested
+{"timestamp":"20260325T05:17:15+00:00","message":"User list requested","level":"INFO","trace_id":"ef8dcb5b91010665,fcf33f4a45f59c34","service":"users-api","meta_data":{},"data":{}}
+{"timestamp":"20260325T05:17:15+00:00","message":"Route not found: \/favicon.ico","level":"ERROR","trace_id":"63455fd20ff9a9cf,b18f7042cf85f00f","service":"users-api","meta_data":{},"data":{}}
+{"timestamp":"20260325T05:18:16+00:00","message":"User list requested","level":"INFO","trace_id":"7a7574b153d63058,e7b2b687528c9a6f","service":"users-api","meta_data":{},"data":{}}
+{"timestamp":"20260325T05:18:19+00:00","message":"User list requested","level":"INFO","trace_id":"51c28f4a1a158067,fba89c6b61b6769b","service":"users-api","meta_data":{},"data":{}}
+{"timestamp":"20260325T05:18:20+00:00","message":"User list requested","level":"INFO","trace_id":"b7bef0a8f92dd2f7,3073c460509413f0","service":"users-api","meta_data":{},"data":{}}
+{"timestamp":"20260325T05:18:21+00:00","message":"User list requested","level":"INFO","trace_id":"7edc671fd407b676,de3d5daec7a7e454","service":"users-api","meta_data":{},"data":{}}
+{"timestamp":"20260325T05:18:21+00:00","message":"User list requested","level":"INFO","trace_id":"064b97ca0e2f56db,90bdf31e81a0fb73","service":"users-api","meta_data":{},"data":{}}
+{"timestamp":"20260325T05:19:16+00:00","message":"User list requested","level":"INFO","trace_id":"3079c09d3ee00fad,139389b9a8d2cbc5","service":"users-api","meta_data":{},"data":{}}
+{"timestamp":"20260325T05:19:41+00:00","message":"User list requested","level":"INFO","trace_id":"b2ffa905a647607c,8643f4641e480736","service":"users-api","meta_data":{},"data":{}}
+{"timestamp":"20260325T05:20:37+00:00","message":"Route not found: \/api\/users984","level":"ERROR","trace_id":"7becb3e78a8d1b46,9673e8444a3eb680","service":"users-api","meta_data":{},"data":{}}
+{"timestamp":"20260325T05:20:45+00:00","message":"User list requested","level":"INFO","trace_id":"90c0371cb8ae70d8,3588d239044b97cc","service":"users-api","meta_data":{},"data":{}}
+{"timestamp":"20260325T05:21:43+00:00","message":"User list requested","level":"INFO","trace_id":"50f6fc37a4f01acf,6efe149831cad35c","service":"users-api","meta_data":{},"data":{}}
+{"timestamp":"20260325T05:22:44+00:00","message":"User list requested","level":"INFO","trace_id":"f6fc0f3b9437e402,efd3ef3c10175863","service":"users-api","meta_data":{},"data":{}}
+{"timestamp":"20260325T06:06:48+00:00","message":"User list requested","level":"INFO","trace_id":"14cacad660123c61,a7563d0739f324a4","service":"users-api","meta_data":{},"data":{}}

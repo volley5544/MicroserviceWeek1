@@ -1,0 +1,7 @@
+{"timestamp": "20260325T16:16:39+07:00", "message": "User list requested", "level": "INFO", "trace_id": "423666fab4461e76,ca5878042ffda602", "service": "users-api", "meta_data": {}, "data": {}}
+{"timestamp": "20260325T16:16:39+07:00", "message": "Route not found: /favicon.ico", "level": "ERROR", "trace_id": "38825db2ba1a43a5,f256c1d26a16d85a", "service": "users-api", "meta_data": {}, "data": {}}
+{"timestamp": "20260325T16:16:51+07:00", "message": "User list requested", "level": "INFO", "trace_id": "4b7fe40e666c0381,ff2eefe2d3855e02", "service": "users-api", "meta_data": {}, "data": {}}
+{"timestamp": "20260325T16:17:50+07:00", "message": "User list requested", "level": "INFO", "trace_id": "ce83d148c902d03d,b2a19c83ac2d24b6", "service": "users-api", "meta_data": {}, "data": {}}
+{"timestamp": "20260325T16:17:56+07:00", "message": "User list requested", "level": "INFO", "trace_id": "69f742c8427399b5,987fd79f6ef4e752", "service": "users-api", "meta_data": {}, "data": {}}
+{"timestamp": "20260325T16:18:01+07:00", "message": "User list requested", "level": "INFO", "trace_id": "a01d8d6a85110190,9b18411a5b6c2526", "service": "users-api", "meta_data": {}, "data": {}}
+{"timestamp": "20260325T16:18:03+07:00", "message": "User list requested", "level": "INFO", "trace_id": "04c0d1a9c8b03e88,78832d25c12f03d4", "service": "users-api", "meta_data": {}, "data": {}}

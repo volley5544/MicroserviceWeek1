@@ -1,0 +1,45 @@
+{
+  "timestamp": "20260327T00:10:35+07:00",
+  "message": "User list requested",
+  "level": "INFO",
+  "trace_id": "df3ceaade499eb71,a91a531a410f5d56",
+  "service": "users-api",
+  "meta_data": {},
+  "data": {}
+}
+{
+  "timestamp": "20260327T00:10:42+07:00",
+  "message": "Home endpoint hit",
+  "level": "INFO",
+  "trace_id": "90441682e92452f1,7c4fae660806682f",
+  "service": "users-api",
+  "meta_data": {},
+  "data": {}
+}
+{
+  "timestamp": "20260327T00:10:45+07:00",
+  "message": "Root endpoint hit",
+  "level": "INFO",
+  "trace_id": "53bed918bb69cd99,926e696989609660",
+  "service": "users-api",
+  "meta_data": {},
+  "data": {}
+}
+{
+  "timestamp": "20260327T00:23:06+07:00",
+  "message": "User list requested",
+  "level": "INFO",
+  "trace_id": "50d64fe4f56c01d7,796ad13698a306fe",
+  "service": "users-api",
+  "meta_data": {},
+  "data": {}
+}
+{
+  "timestamp": "20260327T00:23:08+07:00",
+  "message": "Root endpoint hit",
+  "level": "INFO",
+  "trace_id": "d0f0019ff5caaf70,6dde1cf92483f179",
+  "service": "users-api",
+  "meta_data": {},
+  "data": {}
+}
