@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Micriservice\\ProjectWeek1\\C#\\csharp.csproj",
+      "projectUniqueName": "D:\\Micriservice\\MicroserviceWeek1\\C#\\csharp.csproj",
       "projectName": "csharp",
-      "projectPath": "D:\\Micriservice\\ProjectWeek1\\C#\\csharp.csproj",
+      "projectPath": "D:\\Micriservice\\MicroserviceWeek1\\C#\\csharp.csproj",
       "packagesPath": "C:\\Users\\volle\\.nuget\\packages\\",
-      "outputPath": "D:\\Micriservice\\ProjectWeek1\\C#\\obj\\",
+      "outputPath": "D:\\Micriservice\\MicroserviceWeek1\\C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\volle\\AppData\\Roaming\\NuGet\\NuGet.Config"

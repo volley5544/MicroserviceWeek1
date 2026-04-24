@@ -2,3 +2,5 @@
 {"timestamp":"2026-03-26T23:18:03.478860","message":"Route not found: /favicon.ico","level":"ERROR","trace_id":"64defba9a934c,64defba9a934c","service":"users-api","meta_data":{},"data":{}}
 {"timestamp":"2026-03-26T23:18:13.903931","message":"User list requested","level":"INFO","trace_id":"64defbb39a63b,64defbb39a63b","service":"users-api","meta_data":{},"data":{}}
 {"timestamp":"2026-03-26T23:18:42.935584","message":"Route not found: /api/usersff","level":"ERROR","trace_id":"64defbcf4a708,64defbcf4a708","service":"users-api","meta_data":{},"data":{}}
+{"timestamp":"2026-04-24T23:29:18.404298","message":"User list requested","level":"INFO","trace_id":"65037443afeca,65037443b02b3","service":"users-api","meta_data":{},"data":{}}
+{"timestamp":"2026-04-24T23:29:18.455842","message":"Route not found: /favicon.ico","level":"ERROR","trace_id":"65037443bc822,65037443bc822","service":"users-api","meta_data":{},"data":{}}
