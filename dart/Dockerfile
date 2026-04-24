@@ -8,7 +8,6 @@ RUN dart pub get
 
 COPY . .
 
-# Run tests (if fail → build stops here ❌)
 RUN dart test
 
 # ---------- Stage 2: Production ----------

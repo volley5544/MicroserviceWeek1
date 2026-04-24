@@ -50,7 +50,11 @@ Future<Response> handler(Request request) async {
 }
 
 void main() async {
-  final server = await io.serve(handler, 'localhost', 8080);
+  final server = await io.serve(handler, '0.0.0.0', 6044);
 
   print('Server running on http://${server.address.host}:${server.port}');
+}
+
+int calculate(){
+  return 42;
 }
